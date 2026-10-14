@@ -1,1 +1,1 @@
-alert("uh-oh!");
+alert("uh-oh! this stinks");
